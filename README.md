@@ -96,8 +96,3 @@ Os projetos profissionais mais relevantes ficam em repositórios privados da [Cr
 - Arquitetura de Software Distribuído - PUC Minas, em andamento
 
 ---
-
-### Contato
-
-- GitHub: [github.com/luizfereslima](https://github.com/luizfereslima)
-- Organização: [github.com/CriaCode](https://github.com/CriaCode)

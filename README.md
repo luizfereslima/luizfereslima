@@ -1,6 +1,10 @@
-## Desenvolvedor Backend Pleno
+## Luiz Felipe Feres Lima
 
-Atuo na evolução de sistemas corporativos e institucionais, com foco em backend, APIs REST, integrações, refatoração e regras de negócio. Minha base em suporte técnico me ajuda a enxergar o software além do código: operação, usuário, estabilidade e manutenção também importam.
+**Desenvolvedor Backend Pleno | PHP | Laravel | APIs REST | SQL Server | MySQL**
+
+Atuo na evolução de sistemas corporativos e institucionais, com foco em backend, APIs REST, integrações, refatoração e regras de negócio. Minha experiência une desenvolvimento e visão de operação: busco construir soluções estáveis, manuteníveis e alinhadas ao uso real dos usuários.
+
+Boa parte do meu trabalho profissional está em repositórios privados da [CriaCode](https://github.com/CriaCode), por envolver sistemas internos, regras de negócio sensíveis e código de clientes. Ainda assim, este perfil resume minha stack, meu foco técnico e alguns projetos públicos de estudo.
 
 ---
 
@@ -57,12 +61,32 @@ Atuo na evolução de sistemas corporativos e institucionais, com foco em backen
 
 ---
 
-### O que tenho buscado construir melhor
+### Experiência prática
 
-- Código backend mais organizado, sustentável e fácil de evoluir.
-- APIs e integrações com regras de negócio bem definidas.
-- Refatorações que melhoram manutenção sem perder contexto do sistema.
-- Soluções alinhadas à rotina real de usuários e operação.
+- Desenvolvimento e manutenção de APIs REST em Laravel.
+- Modelagem e evolução de regras de negócio em sistemas corporativos.
+- Integrações entre sistemas, bancos de dados e serviços externos.
+- Refatoração de código legado com foco em estabilidade e manutenção.
+- Consultas, ajustes e análise de dados em MySQL e SQL Server.
+- Documentação técnica de rotas, fluxos e comportamentos de sistema.
+- Apoio à operação, investigação de problemas e melhoria de processos.
+
+---
+
+### Projetos e contexto
+
+Meus repositórios públicos incluem projetos acadêmicos e estudos em Python, C++ e análise de dados. Eles mostram base técnica, aprendizado contínuo e contato com diferentes áreas da computação.
+
+Os projetos profissionais mais relevantes ficam em repositórios privados da [CriaCode](https://github.com/CriaCode), por confidencialidade. Neles trabalho principalmente com backend PHP/Laravel, APIs, integrações, regras de negócio, banco de dados e sustentação de sistemas reais.
+
+---
+
+### O que venho buscando melhorar
+
+- Backend mais organizado, testável e fácil de evoluir.
+- APIs com contratos claros, validações consistentes e boa documentação.
+- Refatorações que reduzem complexidade sem perder contexto do negócio.
+- Soluções que consideram código, usuário, operação e manutenção.
 
 ---
 
@@ -70,3 +94,10 @@ Atuo na evolução de sistemas corporativos e institucionais, com foco em backen
 
 - Ciência da Computação - Estácio
 - Arquitetura de Software Distribuído - PUC Minas, em andamento
+
+---
+
+### Contato
+
+- GitHub: [github.com/luizfereslima](https://github.com/luizfereslima)
+- Organização: [github.com/CriaCode](https://github.com/CriaCode)

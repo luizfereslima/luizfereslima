@@ -2,16 +2,6 @@
 
 Atuo na evolução de sistemas corporativos e institucionais, com foco em backend, APIs REST, integrações, refatoração e regras de negócio. Minha base em suporte técnico me ajuda a enxergar o software além do código: operação, usuário, estabilidade e manutenção também importam.
 
-<p>
-  <a href="https://www.linkedin.com/in/luiz-felipe-feres-lima-7768b4224/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" title="LinkedIn" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:luizferes.lima@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" title="E-mail" alt="E-mail" />
-  </a>
-</p>
-
 ---
 
 ### Stack principal

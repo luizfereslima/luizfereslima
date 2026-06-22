@@ -80,12 +80,3 @@ Atuo na evolução de sistemas corporativos e institucionais, com foco em backen
 
 - Ciência da Computação - Estácio
 - Arquitetura de Software Distribuído - PUC Minas, em andamento
-
----
-
-### GitHub
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfereslima&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" height="150" alt="Linguagens mais usadas" />
-  <img src="https://streak-stats.demolab.com?user=luizfereslima&locale=pt-br&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" height="150" alt="Sequência de contribuições" />
-</div>
